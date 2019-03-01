@@ -22,3 +22,5 @@ git checkout
 git merge   to merge Different Branches
 
 git rebase same like merging Branches.
+
+git branch branchName to Create NewBranch
